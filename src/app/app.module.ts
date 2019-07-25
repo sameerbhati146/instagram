@@ -11,4 +11,10 @@ import { HomeComponent } from "./components/home.component";
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule {}
+export class AppModule {
+  let hello
+}
+
+
+############################3
+starting rebase 
